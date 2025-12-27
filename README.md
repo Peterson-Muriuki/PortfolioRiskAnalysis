@@ -92,6 +92,9 @@ Optimal weights reduced portfolio risk by ~12% compared to equal weights.
 Effective Number of Assets showed partial diversification (ENB ≈ 1.7).
 
 ES/VaR ratio at 99% confidence revealed moderate tail risk, consistent with equity portfolios.
+## Academic Context
+This project was developed as part of my MSc in Financial Engineering at WorldQuant University.  
+It demonstrates how theoretical concepts in stochastic modeling, optimization, and risk management can be applied to solve practical challenges in portfolio analysis.
 
 Links
 GitHub Repo: PortfolioRiskAnalysis
